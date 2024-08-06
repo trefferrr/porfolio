@@ -9,15 +9,12 @@ This is my personal portfolio website built using Next.js.
 3. SEO Friendly: Implements SEO best practices to ensure optimal search engine visibility.
 4. Contact Form: Includes a contact form for users to get in touch with you easily.
 5. Project Showcase: Showcases your projects with descriptions, images, and links.
-6. Blog Section: Optionally includes a blog section to share your thoughts and insights.
 
 ## Technologies Used
 
 - Next.js: Framework for building React applications with server-side rendering and static site generation.
 - React.js: JavaScript library for building user interfaces.
   Tailwind CSS: Utility-first CSS framework for quickly styling your website.
-- Node.js: JavaScript runtime environment for server-side scripting.
-
 ## Getting Started
 
 1. Clone the repository:
