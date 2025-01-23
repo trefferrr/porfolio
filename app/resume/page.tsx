@@ -36,9 +36,9 @@ const ResumePage = () => {
             />
           </div>
           <a
-            href="/Aditya.pdf"
+            href="/Adicv.pdf"
             target="_blank"
-            download="Aditya.pdf"
+            download="Adicv.pdf"
           >
             <Button size={"sm"} variant={"outline"} className="my-3">
               <FiDownload className="mr-2" />
