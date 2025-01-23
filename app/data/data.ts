@@ -256,7 +256,7 @@ export const socials: Social[] = [
   },
   {
     name: "Codeforces",
-    url: "https://codeforces.com/profile/Treffer",
+    url: "https://www.codechef.com/users/trefferx",
     icon: code,
   },
   {
